@@ -1,5 +1,7 @@
 ##Admob
 google.com, pub-2397464549756746, DIRECT, f08c47fec0942fa0
+##Meta
+facebook.com, 2596731230688362, DIRECT, c3e20eee3f780d68
 ## Pangle
 pangleglobal.com, 5021324, DIRECT
 pubmatic.com, 161490, RESELLER, 5d62403b186f2ace
